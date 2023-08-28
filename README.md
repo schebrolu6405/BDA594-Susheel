@@ -1,5 +1,5 @@
 # Susheel Chebrolu
-[Canvas URL For BDA/GEOG 594 Class](https://sdsu.instructure.com/courses/141078)
+[Canvas URL For BDA/GEOG 594 Class](https://sdsu.instructure.com/courses/141078) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;           <img src="https://github.com/schebrolu6405/BDA594-Susheel/blob/Main/assests/susheel.jpeg" alt="My Image" width="200" height="200">
 
 ## Definition Of Big Data?
 
